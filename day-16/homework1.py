@@ -27,7 +27,7 @@ if asnwer == 1:
     answer = True
 elif asnwer == 2:
     print(option1)
-if asnwer == 3:
+elif asnwer == 3:
     print(option1)
 else:
     print(wrong_answer)

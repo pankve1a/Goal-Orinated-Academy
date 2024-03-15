@@ -1,0 +1,1 @@
+print("aq davwer 10 punqcias :)")
